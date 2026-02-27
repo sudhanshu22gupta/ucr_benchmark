@@ -17,8 +17,7 @@ wheels/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data / results
-*.csv
+# Data
 data/
 
 # OS
